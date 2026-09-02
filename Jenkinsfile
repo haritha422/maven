@@ -1,4 +1,3 @@
-```groovy
 node('') {
 
     stage('Continuous Download') {
@@ -37,4 +36,4 @@ node('') {
         '''
     }
 }
-```
+
